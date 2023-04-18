@@ -1,8 +1,7 @@
 ## 👋Hi there 
 
-**这里是月晕,hdu的大二学生,开发菜狗,没啥特长,是傻逼二刺螈,喜欢JavaScript**  
+**这里是月晕,hdu的大二学生,开发菜狗,没啥特长,是傻逼二刺螈,喜欢JavaScript** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
 **𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!**
-<img align="right" src="aveter.png" style="height:80px;border-radius:50%;margin-top:-30px;" alt="suki" title="suki"  />
 ## 🔭 Developing on
 - 创新实践大作业,基于chatgpt的问答系统,技术栈为vue3+koa的全栈开发**  
 - 山田凉bot,为日常生活提供方便(QQ号:1453276792)**  
