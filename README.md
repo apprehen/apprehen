@@ -7,7 +7,7 @@
 - 山田凉bot,为日常生活提供方便(QQ号:1453276792)**  
 - 杀软二次元平台,打算做还没开工捏**  
 
-## lovely
+## 😄lovely
 <img align="right" src="liang.jpg" style="height:400px;margin-top:30px;border-radius:30px;margin-right:10px" alt="suki" title="suki"  />
 <img src="yaogun.jpg" style="width:300px;margin-top:0px;border-radius:10px;margin-right:10px" alt="suki" title="suki"  />
 <img src="sukisuki.png" style="width:300px;margin-top:20px;border-radius:10px;margin-right:10px" alt="suki" title="suki"  />
@@ -15,7 +15,7 @@
 ## 😺Sites
 - **[月晕的博客](https://blog.apprehen.space)**
 
-## 👨编程
+## ⚡编程
 - **JS神中神**  
 - **面向谷歌的编程**  
 - **面向StackOverflow的编程**
