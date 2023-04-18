@@ -23,6 +23,9 @@
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-%234d5e30?style=flat-square&logo=Node.js)
+![Koa](https://img.shields.io/badge/-Koa-%232c3e50?style=flat-square&logo=Koa)
+![Nest.js](https://img.shields.io/badge/-Nestjs-%23E44D27?style=flat-square&logo=Nestjs)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%2300C7B7?style=flat-square&logo=Vite)
