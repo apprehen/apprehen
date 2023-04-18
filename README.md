@@ -13,8 +13,8 @@
 [月晕的博客](https://blog.apprehen.space)
 
 # 编程
-**JS神中神**
-**面向谷歌的编程**
+**JS神中神**  
+**面向谷歌的编程**  
 **面向StackOverflow的编程**
 
 # 联系方式
@@ -23,7 +23,5 @@
 **邮箱:apprehensive639@gmail.com** 
 
 # [:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png)My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apprehen&langs_count=5&theme=tokyonight)![apprehen's GitHub stats](https://github-readme-stats.vercel.app/api?username=apprehen&show_icons=true&theme=tokyonight)
 
-![apprehen's GitHub stats](https://github-readme-stats.vercel.app/api?username=apprehen&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apprehen&langs_count=5&theme=tokyonight)
