@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=162C26&background=A76EFF00&width=435&lines=EXPLOSION!!!!!!)](https://git.io/typing-svg)
+<!-- [<div align=center style="margin-left:120px">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=162C26&background=A76EFF00&width=435&lines=EXPLOSION!!!!!!)](https://git.io/typing-svg)</div> -->
+
+<div align=center style="margin-left: 50px width: 435px; ">
+<img align="center" width="435" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=162C26&background=A76EFF00&width=435&lines=EXPLOSION!!!!!!" />
+</div>
 
 ## 👋Hi there 
 
