@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=162C26&background=A76EFF00&width=435&lines=EXPLOSION!!!!!!)](https://git.io/typing-svg)
+
 ## 👋Hi there 
 
 **这里是月晕,hdu的大二学生,开发菜狗,没啥特长,是傻逼二刺螈,喜欢JavaScript** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
