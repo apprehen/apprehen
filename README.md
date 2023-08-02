@@ -1,18 +1,12 @@
-<!-- [<div align=center style="margin-left:120px">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=162C26&background=A76EFF00&width=435&lines=EXPLOSION!!!!!!)](https://git.io/typing-svg)</div> -->
-
 <div align=center style="margin-left: 50px width: 435px; ">
 <img align="center" width="435" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=162C26&background=A76EFF00&width=435&lines=EXPLOSION!!!!!!" />
 </div>
 
 ## 👋呀哈喽！！ 
 
-**这里是月晕,hdu的大二学生,开发菜狗,没啥特长,是傻逼二刺螈,喜欢JavaScript** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
+**这里是月晕** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
 **𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!**
 ## 🔭 Developing on
-
-- **创新实践大作业,基于chatgpt的问答系统,技术栈为vue3+koa的全栈开发**  
-- **山田凉bot,为日常生活提供方便(QQ号:1453276792)**  
-- **杀软二次元平台,打算做还没开工捏** 
 
 ## ❤️lovely
 <img align="right" src="liang.jpg" style="height:400px;margin-top:30px;border-radius:30px;margin-right:10px" alt="suki" title="suki"  />
@@ -32,20 +26,14 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-%234d5e30?style=flat-square&logo=Node.js)
 ![Koa](https://img.shields.io/badge/-Koa-%232c3e50?style=flat-square&logo=Koa)
-![Nest.js](https://img.shields.io/badge/-Nestjs-%23E44D27?style=flat-square&logo=Nestjs)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%2300C7B7?style=flat-square&logo=Vite)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ## ⚡编程
-- **JS神中神**  
-- **面向谷歌的编程**  
-- **面向StackOverflow的编程**
+- **Web开发，JS，TS，go(学习中)**  
 
 ## 💬联系方式
 - **QQ:3514392356**  
