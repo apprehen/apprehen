@@ -1,7 +1,3 @@
-<div align=center style="margin-left: 50px width: 435px; ">
-<img align="center" width="435" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=162C26&background=A76EFF00&width=435&lines=EXPLOSION!!!!!!" />
-</div>
-
 ## 👋呀哈喽！！ 
 
 **这里是月晕** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
