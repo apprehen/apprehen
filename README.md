@@ -1,6 +1,6 @@
-## 👋呀哈喽！！ 
+## 👋Ciallo～(∠・ω< )⌒☆​ ！！ 
 
-**这里是月晕** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
+**This is the yueyun** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
 **𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!**
 ## 🔭 Developing on
 
@@ -10,7 +10,7 @@
 <img src="sukisuki.png" style="width:300px;margin-top:20px;border-radius:10px;margin-right:10px" alt="suki" title="suki"  />
 
 ## 😺Sites!
- ![Y{2~WZYDMLPEUR@1WJO2}FW](https://github.com/apprehen/apprehen/assets/102287074/2777e8a7-42b6-4afd-bcaf-3e1769125bb9)  **[月晕的博客](https://blog.yueyun.site)**
+ ![Y{2~WZYDMLPEUR@1WJO2}FW](https://github.com/apprehen/apprehen/assets/102287074/2777e8a7-42b6-4afd-bcaf-3e1769125bb9)  **[yueyun blog](https://blog.yueyun.site)**
 
 ## 💻Technology Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -28,10 +28,11 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-## ⚡编程
-- **Web开发，JS，TS，go(学习中)**  
+## ⚡Programing
+- **Web Dev ，JS，TS，Rust(learing)**
+- **Cross platform Dev(React Native Electronjs)**
 
-## 💬联系方式
+## 💬Contact me
 - **QQ:3514392356**  
-- **微信:apprenhensive**  
-- **邮箱:apprehensive639@gmail.com** 
+- **WeChat:apprenhensive**  
+- **Email:apprehensive639@gmail.com** 
