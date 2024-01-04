@@ -1,6 +1,6 @@
 ## 👋Ciallo～(∠・ω< )⌒☆​ ！！ 
 
-**This is the yueyun** <img align="right" src="aveter.png" style="height:100px;margin-top:-30px;" alt="suki" title="suki"  />   
+**This is the yueyun** 
 **𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!**
 ## 🔭 Developing on
 
