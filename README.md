@@ -1,9 +1,11 @@
 ## 👋Ciallo～(∠・ω< )⌒☆​ ！！ 
 
-**This is the yueyun** 
+**This is the yueyun**   
 **𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!**
-## 🔭 Developing on
-
+## 🔭 learing on
+- React (React code, Nextjs, React Native )
+- nestJS
+- TypeScript
 ## ❤️lovely
 <img align="right" src="liang.jpg" style="height:400px;margin-top:30px;border-radius:30px;margin-right:10px" alt="suki" title="suki"  />
 <img src="yaogun.jpg" style="width:300px;margin-top:0px;border-radius:10px;margin-right:10px" alt="suki" title="suki"  />
