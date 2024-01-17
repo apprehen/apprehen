@@ -31,7 +31,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ## ⚡Programing
-- **Web Dev ，JS，TS，Rust(learing)**
+- **Web Dev ，JS，TS，Go(learing)**
 - **Cross platform Dev(React Native Electronjs)**
 
 ## 💬Contact me
