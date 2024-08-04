@@ -6,6 +6,7 @@
 - React (React code, Nextjs, React Native )
 - nestJS
 - TypeScript
+- Electron
 ## ❤️lovely
 <img align="right" src="liang.jpg" style="height:400px;margin-top:30px;border-radius:30px;margin-right:10px" alt="suki" title="suki"  />
 <img src="yaogun.jpg" style="width:300px;margin-top:0px;border-radius:10px;margin-right:10px" alt="suki" title="suki"  />
