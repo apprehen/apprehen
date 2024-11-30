@@ -2,7 +2,7 @@
 
 **This is the yueyun**   
 **𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!**
-## 🔭 learing on
+## 🔭 learning on
 - React (React code, Nextjs, React Native )
 - nestJS
 - TypeScript
